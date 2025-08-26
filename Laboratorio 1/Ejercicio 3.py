@@ -1,7 +1,7 @@
 import math
 class Problema3:
     def __init__(self):
-        print("Ingrese los datos del 1 al 10 =")
+        print("Ingrese los datos del 1 al 10  =")
         self.__d1=float(input())
         self.__d2=float(input())
         self.__d3=float(input())
